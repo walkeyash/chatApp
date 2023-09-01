@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "node.js": "^0.0.1-security",
+    "socket.io": "^4.7.2"
+  }
+}
